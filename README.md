@@ -1,3 +1,4 @@
 # satellite-image-compression
 Satellite Multispectral Image Compression using HEVC Standard  
-Masters Project - FTN UNS - September 2018  
+Part of the source code for my Masters Project  
+FTN UNS - September 2018  
